@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39345996389",
+    "project_id": "tread-43ddc",
+    "storage_bucket": "tread-43ddc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39345996389:android:73ccb4bb811bbfb9c23c8c",
+        "android_client_info": {
+          "package_name": "com.example.tread"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC66X-gPXtQ6zDsl_4hesJdVE4L3cXuxvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

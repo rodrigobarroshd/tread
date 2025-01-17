@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tread</string>
+    <string name="intro_title">Step into your<font color="#38b6ff"> style\n  A world of sneakers</font></string>
+    <string name="intro_text">Browse the latest styles from top brands\n Get personalized recommendations</string>
+</resources>
