@@ -13,22 +13,13 @@
         android:theme="@style/Theme.Tread"
         tools:targetApi="31">
         <activity
-            android:name=".activity.BaseActivity"
-            android:exported="false" />
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="@string/title_activity_main"
+            android:theme="@style/Theme.Tread" />
         <activity
             android:name=".activity.introActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.Tread">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

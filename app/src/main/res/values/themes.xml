@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Tread" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Base.Theme.Tread" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.Tread" parent="Base.Theme.Tread">
+
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
 </resources>
